@@ -10,7 +10,7 @@ Set the following variables within the GitHub repository itself.
 - `REDHAT_USER`
 - `REDHAT_PASSWORD`
 - `QUAY_USER`
-- 'QUAY_REPO'
+- `QUAY_REPO`
 - `QUAY_PASSWORD`
 
 ### Repository Variables
