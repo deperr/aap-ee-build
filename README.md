@@ -1,5 +1,6 @@
-# aap-ee-build
-A repository for testing automated builds of execution environments using GitHub actions
+# Automating Builds of Execution Environments
+
+This repository is meant for testing automated builds of execution environments using GitHub actions.
 
 ## GitHub Repository Configuration
 
